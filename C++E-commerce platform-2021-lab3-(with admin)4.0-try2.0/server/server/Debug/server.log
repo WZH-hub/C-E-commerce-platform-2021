@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try2.0\server\server\源.cpp(15,18): warning C4101: “sendBuf”: 未引用的局部变量
+  server.vcxproj -> F:\code_C\C++E-commerce platform-2021(with admin)4.0-try2.0\server\server\Debug\server.exe

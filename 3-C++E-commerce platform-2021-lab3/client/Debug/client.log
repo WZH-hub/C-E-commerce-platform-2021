@@ -1,0 +1,39 @@
+﻿  cart.cpp
+  cart_func.cpp
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(155,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(171,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(218,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(226,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(259,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(269,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(291,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(394,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(402,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(447,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(469,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(535,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(545,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(491,6): warning C4101: “goods_quantity”: 未引用的局部变量
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(488,15): warning C4101: “r”: 未引用的局部变量
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(645,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(655,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(579,6): warning C4101: “goods_quantity”: 未引用的局部变量
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(576,15): warning C4101: “r”: 未引用的局部变量
+  client.cpp
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\client.cpp(26,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\client.cpp(50,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\client.cpp(138,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\client.cpp(149,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  goods.cpp
+  goods_func.cpp
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\goods_func.cpp(22,13): warning C4101: “r”: 未引用的局部变量
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\goods_func.cpp(124,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\goods_func.cpp(115,13): warning C4101: “r”: 未引用的局部变量
+  main.cpp
+  user.cpp
+  user_func.cpp
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\user_func.cpp(22,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(482): warning C4715: “cart_func::change_cart”: 不是所有的控件路径都返回值
+F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\cart_func.cpp(319): warning C4715: “cart_func::add_cart”: 不是所有的控件路径都返回值
+  client.vcxproj -> F:\code_C\C++E-commerce platform-2021(with admin)4.0-try4.0\client\Debug\client.exe

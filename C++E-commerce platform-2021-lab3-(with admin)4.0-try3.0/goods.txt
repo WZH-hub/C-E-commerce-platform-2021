@@ -1,0 +1,4 @@
+1 1 1
+1 40 40 50 cmh 0.5
+shoes
+a shoes for you
